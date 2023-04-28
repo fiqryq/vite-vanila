@@ -1,6 +1,6 @@
 ## Vite vanila
 
-This is a basic setup for starting a vanilla HTML project using Vite as the bundler. It provides a simple folder structure for organizing your HTML, CSS, and JS files.
+This is a basic setup for starting a vanilla HTML project using Vite as the bundler. It provides a simple folder structure for organizing your HTML, CSS, and JS files..
 
 ## How to running project
 
